@@ -24,4 +24,6 @@ Tecnologias Utilizadas<br>
 👤 Autor<br>
 Fernando Leonid<br>
 Youtube: https://www.youtube.com/@FernandoLeonid<br>
+<br>
+(Site baseado nos ensinamentos do Fernando Leonid)<br>
 
